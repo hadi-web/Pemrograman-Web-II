@@ -43,7 +43,7 @@
 			</tr>
 			<tr>
 				<th colspan="3" align="center">
-					<a href="<?= base_url('matakuliahvalidation');?>">Kembali</a>
+					<a href="<?= base_url('matakuliah');?>">Kembali</a>
 				</th>
 			</tr>
 
